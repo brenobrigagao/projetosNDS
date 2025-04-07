@@ -1,0 +1,14 @@
+/home/brenovinicius/Área de Trabalho/NDS/poo/obj/Debug/net8.0/poo.GeneratedMSBuildEditorConfig.editorconfig
+/home/brenovinicius/Área de Trabalho/NDS/poo/obj/Debug/net8.0/poo.AssemblyInfoInputs.cache
+/home/brenovinicius/Área de Trabalho/NDS/poo/obj/Debug/net8.0/poo.AssemblyInfo.cs
+/home/brenovinicius/Área de Trabalho/NDS/poo/obj/Debug/net8.0/poo.csproj.CoreCompileInputs.cache
+/home/brenovinicius/Área de Trabalho/NDS/poo/bin/Debug/net8.0/poo
+/home/brenovinicius/Área de Trabalho/NDS/poo/bin/Debug/net8.0/poo.deps.json
+/home/brenovinicius/Área de Trabalho/NDS/poo/bin/Debug/net8.0/poo.runtimeconfig.json
+/home/brenovinicius/Área de Trabalho/NDS/poo/bin/Debug/net8.0/poo.dll
+/home/brenovinicius/Área de Trabalho/NDS/poo/bin/Debug/net8.0/poo.pdb
+/home/brenovinicius/Área de Trabalho/NDS/poo/obj/Debug/net8.0/poo.dll
+/home/brenovinicius/Área de Trabalho/NDS/poo/obj/Debug/net8.0/refint/poo.dll
+/home/brenovinicius/Área de Trabalho/NDS/poo/obj/Debug/net8.0/poo.pdb
+/home/brenovinicius/Área de Trabalho/NDS/poo/obj/Debug/net8.0/poo.genruntimeconfig.cache
+/home/brenovinicius/Área de Trabalho/NDS/poo/obj/Debug/net8.0/ref/poo.dll
